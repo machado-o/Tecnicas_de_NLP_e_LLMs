@@ -79,12 +79,17 @@ Análise: As duas IAs criaram letras com temas de tecnologia e sociedade, pareci
 Utilizamos um classificador baseado em léxicos para rotular as músicas. No roteiro original, pretendiamos criar apenas 3 dicionários (filosófico, otimista e melancólico), mas durante o desenvolvimento da atividade, achamos interessante crescer o escopo da classificação de sentimentos, uma vez que as músicas de Engenheiros abordam bastante sobre crítica social e nostalgia, e do modo que estava, o algoritmo classificava muitas músicas como indefinidas ou dava a classificação errada por falta de uma categoria de sentimento que se adequasse melhor. Assim, adicionamos os dicionários "Nostalgia" e "Crítica Social".
 
 A distribuição ficou da seguinte maneira:
-Filosófica        50
-Melancólica       41
-Otimista          31
-Nostalgia         19
-Crítica Social    13
-Indefinido         2
+Filosófica: 50
+
+Melancólica: 41
+
+Otimista: 31
+
+Nostalgia: 19
+
+Crítica Social: 13
+
+Indefinido: 2
 
 Gráfico da Análise Intuitiva:
 
@@ -92,13 +97,18 @@ Gráfico da Análise Intuitiva:
 
 Também analisamos como o algoritmo classificou 5 músicas especificas: 
 Música: 'Infinita Highway' -> Classificada como: FILOSÓFICA
+
 Música: 'Pra Ser Sincero' -> Classificada como: FILOSÓFICA
+
 Música: 'O Papa é Pop' -> Classificada como: CRÍTICA SOCIAL
+
 Música: 'Refrão de Bolero' -> Classificada como: OTIMISTA
+
 Música: 'Era um Garoto que como Eu Amava os Beatles e os Rolling Stones' -> Classificada como: NOSTALGIA
 
+
 Nossa análise ficou assim:
-A classificação fez sentido em algumas músicas, mas achamos que errou em outras:
+A classificação fez sentido em algumas músicas, mas achamos que errou em outras.
 
 "Infinita Highway" como FILOSÓFICA - Faz todo sentido. A música fala sobre ir sem saber pra onde, sobre viver o caminho e não o destino. É bem existencialista mesmo.
 
