@@ -96,6 +96,7 @@ Gráfico da Análise Intuitiva:
 <img src="grafico_analise_intuitiva.png">
 
 Também analisamos como o algoritmo classificou 5 músicas especificas: 
+
 Música: 'Infinita Highway' -> Classificada como: FILOSÓFICA
 
 Música: 'Pra Ser Sincero' -> Classificada como: FILOSÓFICA
