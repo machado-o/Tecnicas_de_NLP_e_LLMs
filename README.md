@@ -125,7 +125,7 @@ A classificação fez sentido em algumas músicas, mas achamos que errou em outr
 
 "Pra Ser Sincero" como FILOSÓFICA - Também faz sentido. A letra questiona relacionamentos, sinceridade, expectativas em uma relação.
 
-"O Papa é Pop" como CRÍTICA SOCIAL - Acertou. Essa música é crítica e irônica, fala sobre alienação da mídia e cultura de massa, é provocativa e crítica.
+"O Papa é Pop" como CRÍTICA SOCIAL - Acertou. A música fala sobre alienação da mídia e cultura de massa, é provocativa e crítica.
 
 "Refrão de Bolero" como OTIMISTA - Achamos que a IA errou. A música fala de um amor meio que perdido, de um erro cometido "Agora me arrependo / Roendo as unhas". É mais melancólica, não otimista, mas é compreensível que a IA tenha se confundido, uma vez que os sentimentos "concretos" declarados em palavras nessa música não são tão claros.
 
