@@ -15,26 +15,28 @@ Modelos Comparados: Gemini 3 Pro e ChatGPT-5
 Método: Few-Shot Prompting (fornecendo exemplos de estrofes reais para condicionar o estilo). O prompt fornecido foi:
 "Crie uma letra de música no estilo da banda brasileira Engenheiros do Hawaii. Use ironia, referências culturais e temas filosóficos ou existenciais.
 Aqui estão alguns exemplos de estrofes reais dos Engenheiros do Hawaii para dar contexto de estilo:
-O papa é pop:
-É qualquer nota qualquer notícia
-Páginas em branco fotos coloridas
-Qualquer nova qualquer notícia
-Qualquer coisa que se mova
-É um alvo
+
+O papa é pop
+
+É qualquer nota qualquer notícia/
+Páginas em branco fotos coloridas/
+Qualquer nova qualquer notícia/
+Qualquer coisa que se mova/
+É um alvo/
 E ninguém 'tá salvo
 
 Infinita Highway
-Mas não precisamos saber pra onde vamos
-Nós só precisamos ir
-Não queremos ter o que não temos
-Nós só queremos viver
 
-Somos quem podemos ser
-A vida imita o vídeo
-Garotos inventam um novo inglês
-Vivendo num país sedento
-Um momento de embriaguez
-Somos quem podemos ser
+Mas não precisamos saber pra onde vamos/
+Nós só precisamos ir/
+Não queremos ter o que não temos/
+Nós só queremos viver/
+Somos quem podemos ser/
+A vida imita o vídeo/
+Garotos inventam um novo inglês/
+Vivendo num país sedento/
+Um momento de embriaguez/
+Somos quem podemos ser/
 Sonhos que podemos ter"
 
 3 - Classificação Intuitiva
