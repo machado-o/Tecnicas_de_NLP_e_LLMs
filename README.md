@@ -1,6 +1,6 @@
 # Análise de Letras: Engenheiros do Hawaii com NLP e IA
 Este projeto aplica técnicas de Processamento de Linguagem Natural (NLP) e Inteligência Artificial Generativa para analisar, classificar e emular o estilo lírico da banda brasileira Engenheiros do Hawaii.
-O objetivo não foi apenas criar modelos, mas explorar como algoritmos lidam com a complexidade, ironia e existencialismo presentes nas composições de Humberto Gessinger.
+O objetivo foi explorar como algoritmos lidam com a complexidade, ironia e existencialismo presentes nas composições de Humberto Gessinger.
 
 # Experimentos Realizados
 O projeto foi dividido em três experimentos principais para investigar diferentes capacidades da IA:
